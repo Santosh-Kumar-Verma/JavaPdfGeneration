@@ -22,7 +22,7 @@ import com.itextpdf.text.pdf.parser.PdfReaderContentParser;
 import com.itextpdf.text.pdf.parser.PdfTextExtractor;
 import com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy;
 import com.itextpdf.text.pdf.parser.TextExtractionStrategy;
-import com.itgrids.dto.Employee;
+import com.test.dto.Employee;
 
 public class GeneratePDFUitl {
    

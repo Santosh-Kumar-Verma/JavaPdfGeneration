@@ -1,4 +1,4 @@
-package com.itgrids.dto;
+package com.test.dto;
 
 public class Employee {
 
